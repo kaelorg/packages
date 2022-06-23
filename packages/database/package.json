@@ -30,11 +30,11 @@
   ],
   "dependencies": {
     "@kaelbot/constants": "^1.0.5",
-    "mongodb": "^3.6.3",
-    "mongoose": "^5.11.13"
+    "mongodb": "^4.0.0",
+    "mongoose": "^6.0.0"
   },
   "devDependencies": {
-    "@types/mongodb": "3.6.20",
+    "@types/mongodb": "4.0.6",
     "@types/mongoose": "5.11.96"
   },
   "gitHead": "a533e0001a418b99855f3a33e5fb175cfc02b668"
